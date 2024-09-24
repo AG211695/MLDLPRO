@@ -15,3 +15,7 @@ Developed an ATS Resume Expert app using Streamlit and Google Gemini Pro, levera
 ## RAG Bot for Document Understanding 📝
 
 This project implements a **Retrieval-Augmented Generation (RAG) Bot** using the **Donut Model** to process documents without relying on OCR, ensuring faster and more efficient document parsing. It integrates **LangChain**, **Unstructured**, and **ChromaDB** for document chunking, embedding, and similarity-based retrieval, along with conversational question-answering. [Learn more here](https://github.com/AG211695/RAG_BOT/blob/main/README.md).
+
+## LLM LangGraph Chatbot 🤖
+
+Built a smart chatbot using **LangChain**, **LangGraph**, and the **LLaMA 3.1-70B** model. The chatbot excels at handling complex conversations, delivering natural, engaging responses. [Learn more here](https://github.com/AG211695/LLM_Langgraph_Chatbot).
